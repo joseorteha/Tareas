@@ -4,6 +4,8 @@
 
 Esta es una aplicación simple de lista de tareas (to-do list) desarrollada con HTML, CSS y JavaScript. Permite agregar, editar, eliminar y marcar tareas como completadas. Además, las tareas se guardan en el almacenamiento local (`localStorage`) para que persistan incluso después de cerrar el navegador.
 
+**Accede a la aplicación en línea aquí: [Lista de Tareas](https://listaa-tareass.netlify.app/)**
+
 ## Características principales
 
 - **Agregar tareas**: Escribe una nueva tarea y presiona "Agregar" o la tecla "Enter".
@@ -35,6 +37,12 @@ Esta es una aplicación simple de lista de tareas (to-do list) desarrollada con 
 - **Font Awesome**: Iconos profesionales para mejorar la interfaz de usuario.
 
 ## Cómo usar la aplicación
+
+Puedes acceder a la aplicación directamente desde tu navegador:
+
+👉 **[Ir a la aplicación](https://listaa-tareass.netlify.app/)**
+
+Si prefieres ejecutarla localmente:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
