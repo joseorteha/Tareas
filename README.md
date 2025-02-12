@@ -18,10 +18,14 @@ Esta es una aplicación simple de lista de tareas (to-do list) desarrollada con 
 ## Capturas de pantalla
 
 ### Vista principal
-![Vista principal](https://via.placeholder.com/600x400?text=Lista+de+Tareas)
+![Vista principal]
+![image](https://github.com/user-attachments/assets/dc15c8af-25ed-449a-83d8-fc5c0b15edbf)
+
 
 ### Diseño responsivo en móvil
-![Diseño responsivo](https://via.placeholder.com/300x600?text=Responsive+Design)
+![Diseño responsivo]
+![image](https://github.com/user-attachments/assets/a0cfd111-5432-4100-8c78-f1893395fe39)
+
 
 ## Tecnologías utilizadas
 
